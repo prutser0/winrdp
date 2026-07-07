@@ -1,0 +1,10 @@
+# RDP Wrapper binaries (worden gedownload door install scripts)
+*.exe
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temp files
+*.tmp
+*.log
